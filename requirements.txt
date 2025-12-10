@@ -1,0 +1,5 @@
+Flask==2.3.3
+langchain_google_genai==0.0.4
+python-dotenv==20.1.0
+gunicorn==1.0.0
+
